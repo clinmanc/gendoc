@@ -1,0 +1,8 @@
+debug = false
+
+[gotmpl]
+# binary = ""
+
+[pandoc]
+# binary = ""
+# reference_doc = ""
